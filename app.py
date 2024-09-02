@@ -1,5 +1,5 @@
 course = '''
-hi sweety
+hi  
 this is santosh 
 iam sending you my first email to you.
 hope you you will good
